@@ -1,0 +1,48 @@
+//body
+body{
+bg-color: #222121
+}
+
+
+
+//Home 
+judul-home{
+color: (#FD2727 & #FFFFFF)
+font-family: (jomhuria)
+div-color-blur: #232323
+}
+
+text-home{
+color: (#ffffff)
+font-family: (Mochiy pop one)
+outline: (#000000)
+}
+
+genre{
+font-family: (jura (bold))
+}
+
+
+//kata kata 
+bg-motivation{
+bg-color: #795959
+bg-stroke: #D9D9D9
+radius-stroke
+}
+
+
+//top film
+textFilm{
+font-family: khula
+}
+
+bg-movie{
+bg-color: #B4B1B1
+vertical-color: #DC2626
+color-star: #F6D20E
+}
+
+//footer
+textFooter{
+fontFamily: Miriam libre
+}
